@@ -21,7 +21,7 @@ int main(){
 
     }
 
-    printf("The word contain %d vowels\n", j);
+    printf("The word contain %d consonant\n", j);
 
     system("pause");
     return(0);
